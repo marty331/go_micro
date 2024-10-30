@@ -9,7 +9,7 @@ import (
 	"time"
 
 	"github.com/gorilla/mux"
-	"github.com/marty331/micro/handlers"
+	"github.com/marty331/go_micro/handlers"
 )
 
 func main() {
